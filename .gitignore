@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+code/.idea/
+
+environment/
+
+code/sentence_output
+
+code/sentence_input.txt
